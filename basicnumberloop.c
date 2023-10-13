@@ -10,4 +10,4 @@ int main(){
         printf("\n");
     }
     return 0;}
-    // in this type of question we will approach like which is changing type that
+    // in this type of question we will approach like which is changing type that row or column

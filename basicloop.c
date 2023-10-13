@@ -1,3 +1,4 @@
+
 #include<stdio.h>
 int main(){
     int n;
@@ -8,5 +9,4 @@ int main(){
             printf("*");
         }
         printf("\n");
-    }
-}
+    }}
