@@ -30,6 +30,7 @@ int main(){
     scanf("%d", &n);
     int a=n;
     // int j=n-i;
+    //3rd approach
     for(int i=1;i<=n;i++){
       
         for( int j=1;j<=a;j++){
